@@ -1,0 +1,41 @@
+_repo: Pilgrim-SorrowA-Cycle-of-Tales_46262
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Zimmern, Helen
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '1466'
+    url: http://www.gutenberg.org/2009/agents/1466
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+covers:
+- cover_type: archival
+  image_path: 46262-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sylva, Carmen
+    aliases:
+    - Silva, Carmen
+    - Elisabeth, Queen, consort of Charles I, King of Romania
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '35434'
+    url: http://www.gutenberg.org/2009/agents/35434
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: Introduction -- The child of the Sun -- Sorrow -- The realm of Peace
+  -- Earthly powers -- The inexorable -- Willi -- The hermit -- Lotty -- Heavenly
+  gifts -- The treasure seekers -- A life.
+title: 'Pilgrim Sorrow: A Cycle of Tales'
+url: http://www.gutenberg.org/ebooks/46262
