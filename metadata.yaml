@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '35434'
     url: http://www.gutenberg.org/2009/agents/35434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46262#Pilgrim-SorrowA-Cycle-of-Tales
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
